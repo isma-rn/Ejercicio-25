@@ -1,0 +1,7 @@
+C:\Users\Fam RN\source\Ejercicios C\E25_Bisiesto\E25_Bisiesto\bin\Debug\E25_Bisiesto.exe.config
+C:\Users\Fam RN\source\Ejercicios C\E25_Bisiesto\E25_Bisiesto\bin\Debug\E25_Bisiesto.exe
+C:\Users\Fam RN\source\Ejercicios C\E25_Bisiesto\E25_Bisiesto\bin\Debug\E25_Bisiesto.pdb
+C:\Users\Fam RN\source\Ejercicios C\E25_Bisiesto\E25_Bisiesto\obj\Debug\E25_Bisiesto.csprojAssemblyReference.cache
+C:\Users\Fam RN\source\Ejercicios C\E25_Bisiesto\E25_Bisiesto\obj\Debug\E25_Bisiesto.csproj.CoreCompileInputs.cache
+C:\Users\Fam RN\source\Ejercicios C\E25_Bisiesto\E25_Bisiesto\obj\Debug\E25_Bisiesto.exe
+C:\Users\Fam RN\source\Ejercicios C\E25_Bisiesto\E25_Bisiesto\obj\Debug\E25_Bisiesto.pdb
